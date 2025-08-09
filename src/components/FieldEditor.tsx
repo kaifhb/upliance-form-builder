@@ -1,4 +1,4 @@
-import * as React from 'react'
+
 import { FieldSchema, FieldType, FieldOption } from '../types'
 import { Box, TextField, FormControlLabel, Switch, MenuItem, Stack, Button, Typography } from '@mui/material'
 

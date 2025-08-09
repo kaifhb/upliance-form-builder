@@ -1,4 +1,4 @@
-import * as React from 'react'
+
 import { FieldSchema } from '../types'
 import FieldEditor from './FieldEditor'
 import DerivedConfig from './DerivedConfig'
